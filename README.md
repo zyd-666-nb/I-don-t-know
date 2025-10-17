@@ -1,2 +1,2 @@
-# I-don-t-know
+# I
 This is my first repository
